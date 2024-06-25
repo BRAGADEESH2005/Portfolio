@@ -1,26 +1,23 @@
 [
-  {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  }
+	{
+		"title": "SkillSwap",
+		"imageSrc": "projects/project.png",
+		"description": "SkillSwap is a platform that allows users to exchange their skills with others. Users can create a profile, list their skills, and find other users to exchange skills with.",
+		"skills": ["React", "Express", "Node", "MongoDB"],
+		"demo": "https://www.skillswap.tech"
+	},
+	{
+		"title": "Resume Builder",
+		"imageSrc": "projects/project.png",
+		"description": "This is an app that allows users to create a resume by filling out a form. The app will then generate a resume based on the information provided.",
+		"skills": ["React Native","CSS","FIGMA"],
+    "source": "https://github.com/BRAGADEESH2005/Resume-Builder-Final"
+	},
+	{
+		"title": "Interview Experience",
+		"imageSrc": "projects/project.png",
+		"description": "This is a website where users can share their interview experiences. Users can read and search for interview experiences by company, role, or location.",
+		"skills": ["React", "Express", "Node","MongoDB"],
+		"source": "https://github.com/BRAGADEESH2005/CSEA_Interview_Exp"
+	}
 ]

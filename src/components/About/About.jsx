@@ -37,10 +37,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Problem Solving</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I love solving problems and building solutions that are
+                user-friendly
               </p>
             </div>
           </li>
